@@ -1,0 +1,13 @@
+order_number;name;destination;note;status;amount;created_by;created_at;weight;
+123456789101;Samsung Galaxy S9;some note;1;10;elgun;2023-05-28 15:05:31;120
+123456789102;2x Samsung Galaxy S8;some note;2;14;vasif;2023-05-28 15:05:31;130
+123456789103;Motorola Nexus 6;some note;2;16;john;2023-05-28 15:05:31;110
+123456789104;Oneplus 9;some note;1;11;elon;2023-05-28 15:05:31;150
+123456789105;Apple iPhone 13;some note;1;18;jeyson;2023-05-28 15:05:31;170
+123456789106;Apple iPhone 12;some note;1;23;teylor;2023-05-28 15:05:31;180
+123456789107;Apple iPhone 11;some note;3;25;eden;2023-05-28 15:05:31;155
+123456789108;iPhone X;some note;2;36;haidy;2023-05-28 15:05:31;115
+123456789109;Nokia 3310;some note;1;42;simon;2023-05-28 15:05:31;125
+123456789110;Samsung Galaxy S22;some note;1;15;david;2023-05-28 15:05:31;145
+
+

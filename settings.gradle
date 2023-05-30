@@ -1,0 +1,8 @@
+rootProject.name = 'phone-shop-system'
+
+include 'api-gateway'
+include 'ms-identity'
+include 'ms-order'
+include 'ms-notification'
+include 'common'
+
